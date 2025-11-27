@@ -1,0 +1,45 @@
+.count {
+  background-image: url(image/background.jpg);
+  background-size: cover;
+  width: 400px;
+  margin: 0 auto;
+  height: 500px;
+  margin-top: 150px;
+  text-align: center;
+  color: white;
+  padding: 50px;
+}
+h1 {
+  margin-top: 60px;
+}
+#countEL {
+  font-size: 35px;
+  font-weight: bold;
+}
+#incrementEL {
+  width: 100px;
+  background-color: brown;
+  border-radius: 6px;
+  color: white;
+  padding: 10px 5px;
+  margin-right: 10px;
+  border: 0;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+#saveEL {
+  background-color: green;
+  width: 100px;
+  border-radius: 6px;
+  color: white;
+  padding: 10px 5px;
+  margin-right: 10px;
+  border: 0;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+#entriesEl {
+  font-size: 20px;
+}
